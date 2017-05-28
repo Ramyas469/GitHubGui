@@ -1,1 +1,1 @@
-Learning Git GUI tuorial 
+Learning Git GUI tuorial (version 0.1)
